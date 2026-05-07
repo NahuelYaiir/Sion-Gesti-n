@@ -1,4 +1,4 @@
-# Sion Recibos Web
+# Sion Educational Platform
 
 Version publica y saneada de una plataforma web para gestión educativa y administración académica.
 
